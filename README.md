@@ -129,13 +129,25 @@ It taught me that real learning happens not just by reading theory, but by build
 
 
 - 📸 Screenshots
-![Screenshot_20251113_213856](https://github.com/user-attachments/assets/372f3396-5e8e-45cf-8a37-84a60619cb14)
-![Screenshot_20251113_213901](https://github.com/user-attachments/assets/3d51a1b4-6c3e-4cfe-900d-bf3b4752c9df)
-![Screenshot_20251113_214131](https://github.com/user-attachments/assets/26730d93-5122-4bdb-b5c1-aa71473229c8)
-![Screenshot_20251113_214143](https://github.com/user-attachments/assets/f641d803-acb4-43bd-ae2e-a89c993e5fa6)
-![Screenshot_20251113_214148](https://github.com/user-attachments/assets/23905375-0472-4218-ac40-c6b7f4762bef)
-![Screenshot_20251113_214218](https://github.com/user-attachments/assets/5a52af16-99b0-43f1-8779-9f084b413360)
-![Screenshot_20251113_214226](https://github.com/user-attachments/assets/b97d0413-2a31-4efb-9f2a-38d287cd9601)
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/372f3396-5e8e-45cf-8a37-84a60619cb14" width="250" />
+  <img src="https://github.com/user-attachments/assets/3d51a1b4-6c3e-4cfe-900d-bf3b4752c9df" width="250" />
+  <img src="https://github.com/user-attachments/assets/26730d93-5122-4bdb-b5c1-aa71473229c8" width="250" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/f641d803-acb4-43bd-ae2a-a89c993e5fa6" width="250" />
+  <img src="https://github.com/user-attachments/assets/23905375-0472-4218-ac40-c6b7f4762bef" width="250" />
+  <img src="https://github.com/user-attachments/assets/5a52af16-99b0-43f1-8779-9f084b413360" width="250" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/b97d0413-2a31-4efb-9f2a-38d287cd9601" width="250" />
+</p>
+
+
+
 
 
 Developed by:
