@@ -27,7 +27,7 @@ swiperefreshlayout = { group = "androidx.swiperefreshlayout", name = "swiperefre
 
 
 
-#implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.2.0-alpha01")
+
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
