@@ -54,18 +54,17 @@ The main goal was to understand the fundamentals of Android app development and 
       val isCompleted: Boolean = false
   )
 
+## 🌇 UI Layer
 
-- 🌇 UI Layer
+- Displays task list using RecyclerView
 
-## - Displays task list using RecyclerView
+- Uses separate views for adding, editing, and viewing tasks
 
-## - Uses separate views for adding, editing, and viewing tasks
-
-## - Incorporates Material Design components for better UX
-
+ - Incorporates Material Design components for better UX
 
 
-- 🧠 Challenges & Solutions
+
+## 🧠 Challenges & Solutions
 
 Problem	Solution
 
@@ -77,20 +76,20 @@ Problem	Solution
 |SearchView reset issue        |	Manually cleared search logic			|
 
 
-- 🎨 User Interface Highlights
+## 🎨 User Interface Highlights
 
 
-##   Clean and modern Material Design layout
+-   Clean and modern Material Design layout
 
-##   Swipe down to Refresh
+-   Swipe down to Refresh
 
-##   Toasts and dialogs for user feedback
+-   Toasts and dialogs for user feedback
 
-##   Purple & Black accent theme with rounded card corners
+-   Purple & Black accent theme with rounded card corners
 
 
 
-- 📚 What I Learned
+## 📚 What I Learned
 
 Setting up and using Room Database
 
@@ -106,7 +105,7 @@ Using Logcat for debugging
 
 
 
--🔮 Future Enhancements
+##🔮 Future Enhancements
 
 Task categories and priority levels
 
@@ -122,35 +121,35 @@ Swipe gesture to delete
 
 
 
-- 🏁 Conclusion
+## 🏁 Conclusion
 
 Developing Personal Task Manager gave me hands-on experience with Android app development — from building UI with Material Design to managing data using Room Database.
 It taught me that real learning happens not just by reading theory, but by building something real and solving problems along the way.
 
 
-- 📸 Screenshots
+## 📸 Screenshots
 
+<!-- First row: 4 images -->
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/372f3396-5e8e-45cf-8a37-84a60619cb14" width="250" />
-  <img src="https://github.com/user-attachments/assets/3d51a1b4-6c3e-4cfe-900d-bf3b4752c9df" width="250" />
-  <img src="https://github.com/user-attachments/assets/26730d93-5122-4bdb-b5c1-aa71473229c8" width="250" />
+  <img src="https://github.com/user-attachments/assets/372f3396-5e8e-45cf-8a37-84a60619cb14" width="200" />
+  <img src="https://github.com/user-attachments/assets/3d51a1b4-6c3e-4cfe-900d-bf3b4752c9df" width="200" />
+  <img src="https://github.com/user-attachments/assets/26730d93-5122-4bdb-b5c1-aa71473229c8" width="200" />
+  <img src="https://github.com/user-attachments/assets/f641d803-acb4-43bd-ae2e-a89c993e5fa6" width="200" />
 </p>
 
+<!-- Second row: 3 images -->
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/f641d803-acb4-43bd-ae2a-a89c993e5fa6" width="250" />
-  <img src="https://github.com/user-attachments/assets/23905375-0472-4218-ac40-c6b7f4762bef" width="250" />
-  <img src="https://github.com/user-attachments/assets/5a52af16-99b0-43f1-8779-9f084b413360" width="250" />
-</p>
-
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/b97d0413-2a31-4efb-9f2a-38d287cd9601" width="250" />
+  <img src="https://github.com/user-attachments/assets/23905375-0472-4218-ac40-c6b7f4762bef" width="200" />
+  <img src="https://github.com/user-attachments/assets/5a52af16-99b0-43f1-8779-9f084b413360" width="200" />
+  <img src="https://github.com/user-attachments/assets/b97d0413-2a31-4efb-9f2a-38d287cd9601" width="200" />
 </p>
 
 
 
 
 
-Developed by:
+
+##Developed by:
 
 👨‍💻 Md. Omar Sayed Roham
 
